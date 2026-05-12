@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
   author: "Sat Naing",
   profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "混沌系统与非线性动力学研究室",
   title: "XXL LAB",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
